@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Online Shopping</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="e_mail">E_mail</string>
+    <string name="signup">SignUp</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="birthdate">BirthDate</string>
+    <string name="address">Address</string>
+    <string name="registration">Registration</string>
+    <string name="total_price">Total Price</string>
+    <string name="map_key" translatable="false">AIzaSyCmV4gQEB0iCUdHTOIACnqRqSMWjWfMamQ</string>
+
+    <string-array name="categories_array">
+        <item>furniture</item>
+        <item>clothes</item>
+        <item>laptops</item>
+        <item>mobiles</item>
+        <item>makeup</item>
+        <item>electronics</item>
+    </string-array>
+</resources>
